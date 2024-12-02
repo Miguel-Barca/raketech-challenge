@@ -1,3 +1,5 @@
+# Rakatech-challenge
+
 ## Dependencies
 
 - Playwright v1.49.0
@@ -14,21 +16,24 @@
 
 ## Fork and clone the project
 
-1. Copy the project URL https://github.com/Miguel-Barca/raketech-technical-challenge.git;
+1. Copy the project URL https://github.com/Miguel-Barca/raketech-challenge.git;
 2. Fork the project following the [GitHub instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo) - (use the parameter --clone=true);
-3. Navigate to project directory `cd raketech-challenge`
 
 ## Run the project
 
 - Through the terminal:
-  - navigate to the project folder;
+  - Open terminal (Windows) or iTerm(macOS)
+  - Navigate to project directory
+  ```console
+    cd raketech-challenge
+    ```
   - run the following script commands:
-    - Part One: UI Test
+    - Part One: UI Test - test accross browsers
 
     ```console
     npm run test:ui:crossBrowser
     ```
-    - Part Two: API Test
+    - Part Two: API Test - swapi api
     ```console
     npm run test:api
     ```
