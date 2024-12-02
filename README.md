@@ -16,7 +16,7 @@
 
 1. Copy the project URL https://github.com/Miguel-Barca/raketech-technical-challenge.git;
 2. Fork the project following the [GitHub instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo) - (use the parameter --clone=true);
-3. Navigate to project directory `cd raketech-technical-challenge`
+3. Navigate to project directory `cd raketech-challenge`
 
 ## Run the project
 
